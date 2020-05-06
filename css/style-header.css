@@ -1,0 +1,6 @@
+header {
+  grid-area: header;
+  font-family: 'Roboto', sans-serif;
+  padding-left: 5%;
+  background-color: #2F4F4F !important;
+}
